@@ -1,4 +1,4 @@
-### Hi there 👋 I'm David Lee
+### Hi there, I'm David Lee 👋
 
 
 <!--
