@@ -1,4 +1,5 @@
-### Hi there 👋 I'
+### Hi there 👋 I'm David Lee
+
 
 <!--
 **Davidtnli/Davidtnli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
